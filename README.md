@@ -1,6 +1,4 @@
 # Security
-file
-**
 
 ## Algoritm de criptare RSA
 
